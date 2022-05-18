@@ -1,0 +1,25 @@
+month=int(input("enter the month"))
+if month==1:
+    print("jan 31")
+elif month==2:
+    print("feb 28")
+elif month==3:
+    print("march 31")
+elif month==4:
+    print("april 30")
+elif month==5:
+    print("may 31")
+elif month==6:
+    print("june 30")
+elif month==7:
+    print('july 31')
+elif month==8:
+    print('aug 31')
+elif month==9:
+    print('sept 30')
+elif month==10:
+    print('oct 31')
+elif month==11:
+    print('nov 30')
+elif month==12:
+    print("dec 31")
